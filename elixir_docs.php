@@ -63,9 +63,7 @@
 
   echo "<div uk-filter=\"target: .js-filter\">
 
-    <ul>
-        <li uk-filter-control=\"sort: data-color\"><a href=\"#\">Sort</a></li>
-    </ul>";
+        <p uk-filter-control=\"sort: data-color\"><a href=\"#\">Sort</a></p>";
 
     echo "<div class=\"uk-column-1-3\">";
     echo "<ul class=\"js-filter\">";
