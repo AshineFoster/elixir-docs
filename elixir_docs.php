@@ -6,7 +6,6 @@
   <title>Elixir Documentations</title>
   <link rel="stylesheet" href="css/uikit.min.css" />
   <script src="js/uikit.min.js"></script>
-  <script src="js/uikit-icons.min.js"></script>
 </head>
 <body>
   <div class="uk-container uk-container-large">
