@@ -9,7 +9,7 @@
 </head>
 <body>
   <div class="uk-container uk-container-large">
-  <h1 class="uk-text-center">Elixir Documentation</h1>
+  <h1 class="uk-text-center uk-padding">Elixir Documentation</h1>
 
   <?PHP
   // Original PHP code by Chirp Internet: www.chirp.com.au
@@ -62,9 +62,9 @@
 
   echo "<div uk-filter=\"target: .js-filter\">
 
-        <p uk-filter-control=\"sort: data-color\"><a href=\"#\">Sort</a></p>";
+        <p class=\"uk-active\" uk-filter-control=\"sort: data-color\"></p>";
 
-    echo "<div class=\"uk-column-1-3\">";
+    echo "<div class=\"uk-column-1-4\">";
     echo "<ul class=\"js-filter\">";
 
       foreach($dirlist as $file) {
