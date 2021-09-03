@@ -7,9 +7,9 @@
   <link rel="stylesheet" href="css/uikit.min.css" />
   <script src="js/uikit.min.js"></script>
 </head>
-<body>
-  <div class="uk-container uk-container-large">
-  <h1 class="uk-text-center uk-padding">Elixir Documentation</h1>
+<body class="uk-background-secondary" uk-height-viewport>
+  <div class="uk-container uk-container-large uk-padding">
+  <h1 class="uk-text-center uk-padding uk-light">Elixir Documentation</h1>
 
   <?PHP
   // Original PHP code by Chirp Internet: www.chirp.com.au
